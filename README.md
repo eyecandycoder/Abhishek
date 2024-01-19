@@ -1,2 +1,1 @@
-# Abhishek
-Data Scientist 
+# Machnie learning Algorithms Implementation
