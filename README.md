@@ -1,1 +1,1 @@
-# Machnie learning Algorithms Implementation
+# Machine learning Algorithms Implementation
